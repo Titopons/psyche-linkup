@@ -1,6 +1,6 @@
 import { Card, CardContent } from "@/components/ui/card";
 import { GraduationCap, Award, Users, Clock } from "lucide-react";
-import psychologistPortrait from "@/assets/psychologist-portrait.jpg";
+import psychologistPortrait from "@/assets/irene-hernandez-portrait.jpg";
 
 const About = () => {
   const credentials = [
