@@ -57,7 +57,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      info: "maria.gonzalez@psicologo.com",
+      info: "irene.hernandez@psicologo.com",
       description: "Respuesta en 24 horas"
     },
     {

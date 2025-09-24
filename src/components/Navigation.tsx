@@ -22,7 +22,7 @@ const Navigation = () => {
             <div className="w-8 h-8 bg-gradient-hero rounded-full flex items-center justify-center">
               <span className="text-primary-foreground font-bold text-sm">P</span>
             </div>
-            <span className="text-xl font-bold text-trust">Psic. María González</span>
+            <span className="text-xl font-bold text-trust">Psic. Irene Hernández</span>
           </div>
 
           {/* Desktop Menu */}

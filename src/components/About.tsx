@@ -61,7 +61,7 @@ const About = () => {
               <div className="relative overflow-hidden rounded-2xl shadow-strong">
                 <img 
                   src={psychologistPortrait}
-                  alt="Psicóloga María González"
+                  alt="Psicóloga Irene Hernández"
                   className="w-full h-[500px] object-cover"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-trust/20 to-transparent"></div>
@@ -81,7 +81,7 @@ const About = () => {
             {/* Content */}
             <div className="space-y-6">
               <h3 className="text-3xl font-bold text-trust">
-                Psic. María González
+                Psic. Irene Hernández
               </h3>
               <p className="text-lg leading-relaxed text-muted-foreground">
                 Mi pasión por la psicología nació del deseo de ayudar a las personas a encontrar 

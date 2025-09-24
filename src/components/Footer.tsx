@@ -45,7 +45,7 @@ const Footer = () => {
                   <span className="text-white font-bold">P</span>
                 </div>
                 <div>
-                  <h3 className="text-2xl font-bold">Psic. María González</h3>
+                  <h3 className="text-2xl font-bold">Psic. Irene Hernández</h3>
                   <p className="text-white/80 text-sm">Psicóloga Clínica Especializada</p>
                 </div>
               </div>
@@ -66,7 +66,7 @@ const Footer = () => {
                 </div>
                 <div className="flex items-center gap-3">
                   <Mail className="w-4 h-4 text-primary-light flex-shrink-0" />
-                  <span className="text-sm">maria.gonzalez@psicologo.com</span>
+                  <span className="text-sm">irene.hernandez@psicologo.com</span>
                 </div>
                 <div className="flex items-center gap-3">
                   <Clock className="w-4 h-4 text-primary-light flex-shrink-0" />
@@ -144,7 +144,7 @@ const Footer = () => {
           <div className="border-t border-white/20 pt-8">
             <div className="flex flex-col md:flex-row md:justify-between md:items-center gap-4 text-sm text-white/80">
               <div className="flex items-center gap-2">
-                <span>© 2024 Psic. María González.</span>
+                <span>© 2024 Psic. Irene Hernández.</span>
                 <span>Hecho con</span>
                 <Heart className="w-4 h-4 text-red-400 fill-current" />
                 <span>para tu bienestar</span>
